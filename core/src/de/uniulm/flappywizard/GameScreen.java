@@ -34,8 +34,8 @@ public class GameScreen implements Screen {
                 harry_width,
                 harry_height
         );
-        game.batch.end();
 
+        game.batch.end();
     }
 
     @Override
